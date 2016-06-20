@@ -1,0 +1,33 @@
+@charset "utf-8";
+.container{
+	max-width: 1024px;
+	min-width: 960px;	
+	margin: auto;
+	}
+
+.blackbar{
+	background-color:#000000;
+	color:#FFFFFF;
+}
+
+body{
+	max-width: 1024px;
+	min-width: 960px;	
+	margin: auto;
+	margin-top: 70px;
+}
+
+h5{
+    font-size: 1em;
+	line-height: 1.7;
+}
+
+/*img{
+	display:block;
+    margin: auto;
+}
+*/
+
+.video{
+	margin-top: 200px;
+}
